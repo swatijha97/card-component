@@ -74,6 +74,7 @@ body {
   /* margin-top: 1rem; */
   color: #fff;
   margin-left: 10px;
+  margin-bottom: 0;
 }
 .footer-section {
   display: flex;
