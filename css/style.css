@@ -17,7 +17,6 @@ body {
   margin: 0 auto;
   background: #14253d;
   padding: 20px;
-  margin-top: 25px;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
@@ -101,7 +100,7 @@ span.day-name {
   margin-top: 45%;
 }
 .overlay {
-  position: ABSOLUTE;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
